@@ -16,3 +16,9 @@ This is still in a very early phase and will be updated after 12th March 2026 ( 
 I am still kinda new at linux and a casual gamer (ig) so I am kinda dual booting Windows 11 and 
 
 ================ End ================
+here is how it looks right now
+
+
+https://github.com/user-attachments/assets/55ad809b-d173-4fbe-b701-4984aa6d26e7
+
+
